@@ -1,11 +1,11 @@
 Решатель квадратных уравнений
 
-Discriminant computation with unittests.
+Тестирование скрипта, решающего квадратные уравнения. (юнит тесты)
 
 Как использовать
 
-For launch test, use console: python tests.py
-If after the execution the answer is "OK" - the script was executed correctly.
+Для запуска теста используйте консоль: python tests.py
+Если после выполнения ответ «ОК» - скрипт был выполнен правильно.
 
 Как запустить
 
